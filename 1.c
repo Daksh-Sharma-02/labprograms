@@ -30,4 +30,6 @@ int main()
     if(flag==true) printf("%d Exists in an array at %d ",x,index);
     if(flag==false) printf("%d  doesnot Exists in an array at %d ",x,index);
 
+    return 0;
+   
 }
